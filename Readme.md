@@ -19,10 +19,10 @@
 ## Languages and Tools i know:
 
 -  <b>Languages</b>           : C, C++, Java, JavaScript <br /> <br /> 
--  <strong>Web development</strong>     : Node js, React js, Express js, Html, Css, Bootstrap   <br /> <br />
--  Databases           : MongoDb, MySql           <br /> <br />
--  Tools               : Git/Github, VsCode, Postman, Heroku, Netlify <br /> <br />
--  Currently Learning  : Docker
+-  <b>Web development</b>     : Node js, React js, Express js, Html, Css, Bootstrap   <br /> <br />
+-  <b>Databases</b>           : MongoDb, MySql           <br /> <br />
+-  <b>Tools</b>               : Git/Github, VsCode, Postman, Heroku, Netlify <br /> <br />
+-  <b>Currently Learning</b>  : Docker
 
 <br />
 <br />
