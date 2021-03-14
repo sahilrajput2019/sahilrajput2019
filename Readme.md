@@ -18,7 +18,7 @@
 
 ## Languages and Tools i know:
 
--  Languages           : C, C++, Java, JavaScript <br /> <br /> 
+-  Languages           : [<img align="left" alt="sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />]C, [<img align="left" alt="sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c++.svg" />]C++, [<img align="left" alt="sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />]Java, [<img align="left" alt="sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />]JavaScript <br /> <br /> 
 -  Web development     : Node js, React js, Express js, Html, Css, Bootstrap   <br /> <br />
 -  Databases           : MongoDb, MySql           <br /> <br />
 -  Tools               : Git/Github, VsCode, Postman, Heroku, Netlify <br /> <br />
