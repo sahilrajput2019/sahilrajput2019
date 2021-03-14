@@ -8,11 +8,12 @@
 - ⚡ Looking for collaborations
 
 
-### Connect with me:
+### View me on:
 
 [<img align="left" alt="sahil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 <br />
 
 ## Languages and Tools i know:
@@ -32,3 +33,4 @@
 [instagram]: https://www.instagram.com/sahil_rajput_20/
 [linkedin]: https://www.linkedin.com/in/sahil-rajput-a36a241a2/
 [hackerrank]: https://www.hackerrank.com/SahilRajput2019
+[codechef]: https://www.codechef.com/users/sahilrajput201
