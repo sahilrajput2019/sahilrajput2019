@@ -17,12 +17,12 @@
 
 ## Languages and Tools i know:
 
- Languages           : C, C++, Java, JavaScript
- FrameWorks          : React Js, Express Js
- Backend Proficiency : Node js
- Frontend            : Html, Css, Bootstrap
- Databases           : MongoDb, MySql
- Tools               : Git/Github, VsCode, Postman
+ Languages           : C, C++, Java, JavaScript <br />
+ FrameWorks          : React Js, Express Js     <br />
+ Backend Proficiency : Node js                  <br />
+ Frontend            : Html, Css, Bootstrap     <br />
+ Databases           : MongoDb, MySql           <br />
+ Tools               : Git/Github, VsCode, Postman  <br />
  Currently Learning  : Docker
 
 <br />
