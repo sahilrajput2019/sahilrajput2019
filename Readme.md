@@ -18,8 +18,8 @@
 
 ## Languages and Tools i know:
 
--  Languages           : C, C++, Java, JavaScript <br /> <br /> 
--  Web development     : Node js, React js, Express js, Html, Css, Bootstrap   <br /> <br />
+-  <b>Languages</b>           : C, C++, Java, JavaScript <br /> <br /> 
+-  <strong>Web development</strong>     : Node js, React js, Express js, Html, Css, Bootstrap   <br /> <br />
 -  Databases           : MongoDb, MySql           <br /> <br />
 -  Tools               : Git/Github, VsCode, Postman, Heroku, Netlify <br /> <br />
 -  Currently Learning  : Docker
