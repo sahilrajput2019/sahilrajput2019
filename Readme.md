@@ -2,11 +2,11 @@
 
 ## I'm a 3rd Year Computer Science Student at Chandigarh University
 
+<a href="https://github.com/sahilrajput2019"><img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="250"> </a>
 - 🔭 Aspiring Full Stack Web developer, MERN Stack
 - 👯 I also do Competitive Programming
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Looking for collaborations
-<a href="https://github.com/sahilrajput2019"><img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="250"> </a>
 
 ### View me on:
 
