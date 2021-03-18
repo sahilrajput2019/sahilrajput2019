@@ -16,7 +16,7 @@
 [<img align="left" alt="sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 <br />
 
-## Languages and Tools i know:
+## Languages and Tools Proficiency:
 
 -  <b>Languages</b>           : C, C++, Java, JavaScript <br /> <br /> 
 -  <b>Web development</b>     : Node js, React js, Express js, Html, Css, Bootstrap   <br /> <br />
