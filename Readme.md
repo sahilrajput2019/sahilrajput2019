@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Sahil Rajput 
 
 ## I'm a 3rd Year Computer Science Student at Chandigarh University
-<a href="https://github.com/sahilrajput2019"><img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="220"> </a>
 
 - 🔭 Aspiring Full Stack Web developer, MERN Stack
 - 👯 I also do Competitive Programming
