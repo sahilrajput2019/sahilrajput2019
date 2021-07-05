@@ -34,4 +34,4 @@
 [linkedin]: https://www.linkedin.com/in/sahil-rajput-a36a241a2/
 [hackerrank]: https://www.hackerrank.com/SahilRajput2019
 [codechef]: https://www.codechef.com/users/sahilrajput201
-[leetcode]: https://leetcode.com/ckyDinko/
+[leetcode]: https://leetcode.com/sahil_rajput_2000/
