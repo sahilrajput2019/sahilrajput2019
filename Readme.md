@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sahil Rajput 
 
-## I'm a 3rd Year Computer Science Student at Chandigarh University
+## I'm a Final Year Computer Science Student at Chandigarh University
 
 - 🔭 Aspiring Full Stack Web developer, MERN Stack
 - 👯 I also do Competitive Programming
