@@ -22,7 +22,6 @@
 -  <b>Web development</b>     : Node js, React js, Express js, Html, Css, Bootstrap   <br /> <br />
 -  <b>Databases</b>           : MongoDb, MySql           <br /> <br />
 -  <b>Tools</b>               : Git/Github, VsCode, Postman, Heroku, Netlify <br /> <br />
--  <b>Currently Learning</b>  : System Design and architecture
 
 <br />
 <br />
