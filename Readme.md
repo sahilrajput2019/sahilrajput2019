@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Sahil Rajput 
 
-## I'm a Final Year Computer Science Student at Chandigarh University
+## I'm Buisness Technology Solutions Associate Intern at ZS Associates
 
 - 🔭 Aspiring Full Stack Web developer, MERN Stack
 - 👯 I also do Competitive Programming
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Looking for collaborations
+- 🔭 Final Year CSE student at Chandigarh University
 
 ### View me on:
 
