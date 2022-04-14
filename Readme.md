@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sahil Rajput 
 
-## I'm Buisness Technology Solutions Associate Intern at ZS Associates
+## I'm Business Technology Solutions Associate Intern at ZS Associates
 
 - 🔭 Aspiring Full Stack Web developer, MERN Stack
 - 👯 I also do Competitive Programming
