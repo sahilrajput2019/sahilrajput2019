@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Sahil Rajput 
 
-## I'm Business Technology Solutions Associate Intern at ZS Associates
+## I'm Business Technology Solutions Associate Consultant at ZS Associates
 
-- 🔭 Aspiring Full Stack Web developer, MERN Stack
-- 👯 I also do Competitive Programming
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Looking for collaborations
-- 🔭 Final Year CSE student at Chandigarh University
+- 🔭 Data Engineering Enthusiast
+- 🔭 3+ years of experience
+- 🔭 B.Tech graduate - 2022 from Chandigarh University
 
 ### View me on:
 
@@ -19,10 +17,8 @@
 
 ## Languages and Tools Proficiency:
 
--  <b>Languages</b>           : C, C++, Java, JavaScript <br /> <br /> 
--  <b>Web development</b>     : Node js, React js, Express js, Html, Css, Bootstrap   <br /> <br />
--  <b>Databases</b>           : MongoDb, MySql           <br /> <br />
--  <b>Tools</b>               : Git/Github, VsCode, Postman, Heroku, Netlify <br /> <br />
+-  <b>Actively Using</b>  : Python, SQL, AWS, FastAPI, Pandas, Numpy, Langchain, Vector Databases, RAG pipelines, CI-CD, Github Actions, Docker <br /> <br />
+-  <b>Past Experince(University Projects)</b>  : C, C++, Java, JavaScript, Node js, React js, Express js, HTML, CSS, MongoDB <br /> <br /> 
 
 <br />
 <br />
