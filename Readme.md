@@ -17,7 +17,8 @@
 
 ## Languages and Tools Proficiency:
 
--  <b>Actively Using</b>  : Python, SQL, AWS, FastAPI, Pandas, Numpy, Langchain, Vector Databases, RAG pipelines, CI-CD, Github Actions, Docker <br /> <br />
+-  <b>Actively Using</b>  : Python, SQL, AWS, FastAPI, Pandas, Numpy <br /> <br />
+-  <b>Currently Learning</b>  : Langchain, Vector Databases, RAG pipelines, CI-CD, Github Actions, Docker <br /> <br />
 -  <b>Past Experince(University Projects)</b>  : C, C++, Java, JavaScript, Node js, React js, Express js, HTML, CSS, MongoDB <br /> <br /> 
 
 <br />
